@@ -1,0 +1,4 @@
+These are two scripts for Jupyter Notebook that apply the model from Wall, C. M. (2014), 
+Autonomous in situ measurements of estuarine surface PCO₂: instrument development and initial estuarine observations, to estimate the end point equilibrium for the SEACOW's 
+water side. One is for a single time point; one is for time series data so you can apply the model to deployment data. Author of the script is Dr. Phil Bresnahan, with 
+contributions from Liz Farquhar. 
